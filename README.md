@@ -52,6 +52,6 @@ I enjoy building systems that actually get used.
 
 ## 📬 Reach Me
 
-- 📧 Email: YOUR_EMAIL@gmail.com  
+- 📧 Email: mazen.a.sharaf2008@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
 - 🌍 Portfolio: https://YOUR-PORTFOLIO
