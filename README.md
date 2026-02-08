@@ -45,7 +45,7 @@ I enjoy building systems that actually get used.
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MazenSharaf200&show_icons=true&theme=transparent" />
 </p>
 
 ---
