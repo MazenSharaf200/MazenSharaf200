@@ -5,6 +5,8 @@ Discord Developer 🤖 • Web Developer 🌐
 I enjoy building systems that actually get used.
 </p>
 
+https://camo.githubusercontent.com/2596c1423c367f52aafb93dd7a1d26207b7e32d9ab0e48412bd54eafe29a89f8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d45726f72723430267374796c653d666f722d7468652d626164676526636f6c6f723d374141324637
+
 ---
 
 ## 🛠 What I Do
