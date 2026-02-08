@@ -5,7 +5,9 @@ Discord Developer 🤖 • Web Developer 🌐
 I enjoy building systems that actually get used.
 </p>
 
-![](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fyour-github-username%2Fyour-github-username.json&color=blue&label=PROFILE%20VIEWS&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MazenSharaf200&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
