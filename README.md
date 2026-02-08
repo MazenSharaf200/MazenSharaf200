@@ -54,4 +54,4 @@ I enjoy building systems that actually get used.
 
 - 📧 Email: mazen.a.sharaf2008@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
-- 🌍 Portfolio: https://YOUR-PORTFOLIO
+- 🌍 Portfolio: https://mazensharaf.netlify.app/
